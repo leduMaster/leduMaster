@@ -13,9 +13,7 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/" title="dotnet" target="_blank"> 
     <img align="left" src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-plain.svg" alt="dotnet" width="26px" height="26px" /> 
   </a>  
-  <a href="https://www.mysql.com/" title="mysql" target="_blank"> 
-    <img align="left" src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="mysql" width="26px" height="26px" /> 
-  </a>  
+ 
 </p>
 
 <!--
