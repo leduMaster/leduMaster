@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## I'm Dušan, big car enthusiast and developer from Belgrade, Serbia
+👇 Check me out on LinkedId 👇
 [![LinkedInConnect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/nikolic-dusan/)
 
 ### Currently working
