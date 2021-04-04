@@ -6,15 +6,7 @@
 ### Currently working
 
 🔭 Currently working on embedded software for car body control module using:
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="csharp" target="_blank"> 
-    <img align="left" src="https://devicon.dev/devicon.git/icons/csharp/csharp-plain.svg" alt="csharp" width="26px" height="26px" /> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/" title="dotnet" target="_blank"> 
-    <img align="left" src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-plain.svg" alt="dotnet" width="26px" height="26px" /> 
-  </a>  
- 
-</p>
+.NET, C# and some basic C
 
 <!--
 **leduMaster/leduMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
